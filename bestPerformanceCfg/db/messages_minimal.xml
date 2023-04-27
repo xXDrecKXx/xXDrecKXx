@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>- F r i t t e n b u d e -</text>
+    </message>
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Map: Junkyard[v1.31]</text>
+    </message>
+	<!-- Benachrichtigung fuer Serverneustart -->
+    <message>
+        <deadline>60</deadline>
+        <shutdown>1</shutdown>
+        <text>Serverrestart in #tmin</text>
+    </message>
+</messages>
